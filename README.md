@@ -1,6 +1,13 @@
 # Suijixuehao
 This project just a demo             
-在网课期间和在校期间帮助老师抽学号              
+在网课期间和在校期间帮助老师抽学号      
+   
+     
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FABCDCreeper-Team%2FSuijixuehao.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FABCDCreeper-Team%2FSuijixuehao?ref=badge_large)
+    
+    
 ## 中文
 ### 联系方式(QQ)
 * 爱编程的creeper:1474002938
@@ -32,5 +39,3 @@ This project just a demo
 * Compile new code based on our code
 
 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FABCDCreeper-Team%2FSuijixuehao.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FABCDCreeper-Team%2FSuijixuehao?ref=badge_large)
